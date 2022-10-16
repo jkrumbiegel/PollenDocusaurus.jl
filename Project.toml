@@ -1,0 +1,13 @@
+name = "PollenDocusaurus"
+uuid = "355f172a-f5b5-4204-a0ff-5f4098a3f32c"
+authors = ["Julius Krumbiegel <julius.krumbiegel@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
